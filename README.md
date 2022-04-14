@@ -1,9 +1,9 @@
 # HM Font
 
-「日本語文字も表示できる Hack」がコンセプトの日本語フォントです。
-[Hack](https://sourcefoundry.org/hack/) をベースに、Hack に含まれない文字を
-[M+ 1m](https://mplus-fonts.osdn.jp/) のグリフで補っています。
+Adds Japanese Characters to the Hack Font. (Combined with Fira Code Ligatures)
+[Hack](https://sourcefoundry.org/hack/), a typeface in the Bitstream Vera lineage.
+[M+ 1m](https://mplus-fonts.osdn.jp/) japanese glyphs
 
-## 画面表示例
+## Screenshot
 
 ![screenshot](screenshot.png)
