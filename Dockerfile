@@ -4,7 +4,7 @@ RUN apt-get update && \
     apt-get install -y curl python3-fontforge
 
 RUN mkdir -p /inputs
-RUN curl -fsSL https://github.com/source-foundry/Hack/releases/download/v3.003/Hack-v3.003-ttf.tar.xz | \
+RUN curl -fsSL https://github.com/haya3218/storage/releases/download/lmao/HackNFFC.tar.xz | \
     xz -d - | tar xv -C /inputs
 RUN curl -fsSL https://osdn.net/projects/mplus-fonts/downloads/62344/mplus-TESTFLIGHT-063a.tar.xz | \
     xz -d - | tar xv -C /inputs && \
